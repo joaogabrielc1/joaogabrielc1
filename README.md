@@ -1,4 +1,4 @@
-# Olá, eu sou o João Gabriel Coelho 👋
+# Olá, meu nome é João Gabriel Coelho 
 
 ### 🎓 Formação & Perfil
 - **Sistemas de Informação** | UNIFEBE (Brusque) - *Em graduação*
